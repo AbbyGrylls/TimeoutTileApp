@@ -1,0 +1,10 @@
+<!-- res/drawable/ic_tile_timeout.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M15.07,1l-6.14,0c-0.46,0 -0.83,0.37 -0.83,0.83v1.33c0,0.46 0.37,0.83 0.83,0.83l0.33,0v0.67c-3.68,0.92 -6.33,4.19 -6.33,8.01 0,4.57 3.7,8.27 8.27,8.27s8.27,-3.7 8.27,-8.27c0,-3.82 -2.65,-7.09 -6.33,-8.01v-0.67l0.33,0c0.46,0 0.83,-0.37 0.83,-0.83v-1.33c0,-0.46 -0.37,-0.83 -0.83,-0.83zm-2.07,15h-2v-6h2v6z" />
+</vector>
